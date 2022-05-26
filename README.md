@@ -2,7 +2,7 @@
 
 Android/前端开发者，熟悉 Java、 Kotlin、 Vue、 React 音视频等相关开发知识，**个人公众号【码农砖家】** 会不定期分享我的开发经验、生活趣事、开源框架，欢迎关注学习交流
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zqf-dev&show_icons=true&theme=Gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zqf-dev&show_icons=true&theme=react)
 
 ### [联系我](https://github.com/zqf-dev)
 
